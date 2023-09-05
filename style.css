@@ -133,6 +133,7 @@ section {
 form {
     display: flex;
     flex-direction: column;
+
 }
 
 #contact input {
